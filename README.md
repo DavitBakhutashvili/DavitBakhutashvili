@@ -12,11 +12,12 @@ Skills:  REACT / JS / HTML / CSS / TypeScript / GraphQL / Apollo Client / Git / 
 - 🔧 Problem Solving: Tackling complex challenges with innovative frontend solutions.
 - ⚡ Performance Optimization: Ensuring fast and efficient web applications for optimal user experience.
 
-  #### 🌍 Connect with Me!
+#### ✉️ How you can reach me:
 
 [![Linkedin: Davit Bakhutashvili](https://img.shields.io/badge/-bakhutashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davitbakhutashvili)](https://www.linkedin.com/in/davitbakhutashvili/)
+[![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:davit.bakhutashvili1@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](davit.bakhutashvili1@gmail.com)  
+
 
 
 
