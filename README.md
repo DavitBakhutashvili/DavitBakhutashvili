@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS / TypeScript / GraphQL / Apollo Client / Git / 
 
   #### 🌍 Connect with Me!
 
-[![Linkedin: Davit Bakhutashvili](https://img.shields.io/badge/-bakhuatshvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davitbakhutashvili)](https://www.linkedin.com/in/davitbakhutashvili/)
+[![Linkedin: Davit Bakhutashvili](https://img.shields.io/badge/-bakhutashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davitbakhutashvili)](https://www.linkedin.com/in/davitbakhutashvili/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](davit.bakhutashvili1@gmail.com)  
 
