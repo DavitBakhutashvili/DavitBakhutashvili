@@ -13,7 +13,7 @@ Skills:  REACT / JS / HTML / CSS / TypeScript / GraphQL / Apollo Client / Git / 
 
   #### 🌍 Connect with Me!
 
-  [![Linkedin: Giga Chkhikvadze](https://img.shields.io/badge/-chkhikvadze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davitbakhutashvili)](https://www.linkedin.com/in/davitbakhutashvili/)
+  [![Linkedin: Davit Bakhutashvili ](https://img.shields.io/badge/-chkhikvadze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davitbakhutashvili)](https://www.linkedin.com/in/davitbakhutashvili/)
 
 
 
