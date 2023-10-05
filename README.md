@@ -6,10 +6,10 @@ Skills:  REACT / JS / HTML / CSS / TypeScript / GraphQL / Apollo Client / Git / 
 
 
 🚀 Expertise & Services:
-🌟 Mastering React: Building dynamic and responsive web applications with ReactJS.
-💻 User Interface Design: Transforming ideas into elegant and user-friendly interfaces.
-🔧 Problem Solving: Tackling complex challenges with innovative frontend solutions.
-⚡ Performance Optimization: Ensuring fast and efficient web applications for optimal user experience.
+-🌟 Mastering React: Building dynamic and responsive web applications with ReactJS.
+-💻 User Interface Design: Transforming ideas into elegant and user-friendly interfaces.
+-🔧 Problem Solving: Tackling complex challenges with innovative frontend solutions.
+-⚡ Performance Optimization: Ensuring fast and efficient web applications for optimal user experience.
 
 
 
