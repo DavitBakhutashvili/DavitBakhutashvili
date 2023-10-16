@@ -3,7 +3,7 @@
 ### I'm  a passionate React developer from Georgia. Welcome to my GitHub profile! I specialize in building interactive and responsive web applications using React.js. With a blend of creativity and technical expertise, I transform ideas into beautiful and functional user interfaces.
 
 
-Skills:  REACT / JS / HTML / CSS / TypeScript / GraphQL / Rest API / Apollo Client / Git / npm / Styled-components / SASS 
+Skills:  REACT / JS / HTML / CSS / TypeScript / Angular / GraphQL / Rest API / Apollo Client / Git / npm / Styled-components / SASS 
 
 
 🚀 Expertise & Services:
