@@ -14,7 +14,7 @@ Skills:  REACT / JS / HTML / CSS / TypeScript / Angular / GraphQL / Rest API / A
 
 #### ✉️ How you can reach me:
 
-[![Linkedin: Davit Bakhutashvili](https://img.shields.io/badge/-bakhutashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davit-bakhutashvili-469859212/)](https://www.linkedin.com/in/davitbakhutashvili)
+[![Linkedin: Davit Bakhutashvili](https://img.shields.io/badge/-bakhutashvili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davit-bakhutashvili-469859212/)](https://www.linkedin.com/in/davit-bakhutashvili-469859212/)
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:davit.bakhutashvili1@gmail.com)
 
 
